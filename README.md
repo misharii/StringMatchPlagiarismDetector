@@ -17,3 +17,8 @@ What things you need to install the software and how to install them:
 
 ```bash
 python3 -m pip install matplotlib  # For plotting the results
+```
+
+## Sample of Plot
+![image](https://github.com/misharii/StringMatchPlagiarismDetector/assets/125268174/47cf0f38-2170-4d76-89be-1b1ba791421e)
+

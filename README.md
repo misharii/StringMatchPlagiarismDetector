@@ -14,7 +14,7 @@ This project implements and compares the performance of three fundamental string
 
 ## Setup and Installation:
 1. Clone the Repository:
-   git clone https://github.com/your-repo/string-matching-algorithms.git
+   git clone [https://github.com/your-repo/string-matching-algorithms.git](https://github.com/misharii/StringMatchPlagiarismDetector.git)
    cd string-matching-algorithms
 
 2. Install Required Libraries:
